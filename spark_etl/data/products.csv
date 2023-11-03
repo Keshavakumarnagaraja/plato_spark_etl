@@ -1,0 +1,195 @@
+id,name,price,sku,created_at
+1000,Impact Wrench Ventilated,9970.35,PHkXdiGyFyw-553,2022-03-18
+1001,Caliper Automatic,781.45,BtFensRPpxC-982,2023-02-25
+1002,Caliper Standard-Issue,9616.47,BtFensRPpxC-257,2021-09-01
+1003,Wire Brush Classic,4414.11,APCPtYop-658,2023-06-30
+1004,Cordless Drill Portable,9194.04,HEdZXMkf-129,2023-04-11
+1005,Stud Finder Weather-Resistant,2004.33,slZhggzlr-267,2022-05-29
+1006,Stud Finder Weather-Resistant,5737.51,slZhggzlr-921,2021-12-11
+1007,Stud Finder Zero-Clearance,1386.85,slZhggzlr-476,2023-02-12
+1008,Stud Finder Foldable,1566.69,slZhggzlr-879,2022-07-29
+1009,Stud Finder Tilt-Action,3126.15,slZhggzlr-619,2022-11-22
+1010,Cable Cutter Wall-Mount,3946.91,uPOcTnMN-107,2022-01-02
+1011,Cable Cutter Ultra-Bright,7259.75,uPOcTnMN-438,2020-11-01
+1012,Cable Cutter High-Performance,7596.47,uPOcTnMN-484,2021-04-28
+1013,Chisel Foldable,8581.77,ftJtklAnh-662,2022-11-03
+1014,Chisel Theft-Deterrent,3490.81,ftJtklAnh-999,2022-08-27
+1015,Chisel Manual,5486.54,ftJtklAnh-219,2022-06-13
+1016,Chisel Bluetooth-Enabled,4562.2,ftJtklAnh-854,2022-08-21
+1017,Concrete Mixer Ventilated,6567.62,QVAOoXgMW-877,2021-06-21
+1018,Electric Motor Uncoated,2203.72,wZyOAVPg-568,2021-01-11
+1019,Electric Motor Spark-Resistant,6675.28,wZyOAVPg-700,2022-08-21
+1020,Pipe Cutter Quick-Setup,5975.4,MttpcCrD-783,2021-02-13
+1021,Pipe Cutter Rugged,1513.84,MttpcCrD-190,2023-09-16
+1022,Pipe Cutter Wind-Resistant,2698.44,MttpcCrD-832,2021-09-13
+1023,Plasma Cutter Stain-Resistant,5302.66,dlMCFwFrnyAV-739,2023-02-02
+1024,Adjustable Wrench Wireless,3247.62,YtGyiaKup-368,2023-08-17
+1025,Adjustable Wrench Classic,2091.34,YtGyiaKup-465,2020-12-29
+1026,Hand Truck Superior-Design,4600.48,blIEDuiBmm-437,2021-01-04
+1027,Hand Truck High-Capacity,2876.05,blIEDuiBmm-549,2023-09-09
+1028,Hand Truck Tough-Built,9425.24,blIEDuiBmm-227,2021-04-01
+1029,Hand Truck Turbo-Charged,3664.46,blIEDuiBmm-654,2023-02-20
+1030,Hand Truck Zero-Clearance,7671.33,blIEDuiBmm-738,2023-06-06
+1031,Groove Cutter Two-Speed,8229.4,QBbXoJovycZ-987,2021-11-24
+1032,Groove Cutter Straight-Edge,549.21,QBbXoJovycZ-618,2023-05-16
+1033,Groove Cutter Expandable,5918.39,QBbXoJovycZ-822,2023-05-05
+1034,Groove Cutter Foldable,2861.34,QBbXoJovycZ-519,2023-08-19
+1035,Groove Cutter Secure-Grip,5474.88,QBbXoJovycZ-324,2022-01-31
+1036,Groove Cutter Eco-Friendly,711.73,QBbXoJovycZ-666,2023-05-17
+1037,Groove Cutter Self-Lubricating,8553.26,QBbXoJovycZ-382,2021-11-01
+1038,Groove Cutter Weather-Resistant,5290.91,QBbXoJovycZ-125,2021-06-21
+1039,Groove Cutter X-Large,1310.43,QBbXoJovycZ-526,2022-12-18
+1040,Groove Cutter Bluetooth-Enabled,2156.51,QBbXoJovycZ-361,2023-07-20
+1041,Metal Detector Solid-Core,846.09,vFBiyrrDgu-663,2021-09-26
+1042,Metal Detector Multipurpose,1668.89,vFBiyrrDgu-562,2023-04-03
+1043,Metal Detector Vintage-Style,183.4,vFBiyrrDgu-409,2022-04-29
+1044,Metal Detector Secure-Grip,9166.16,vFBiyrrDgu-858,2022-01-25
+1045,Metal Detector Mini,4096.37,vFBiyrrDgu-508,2020-10-26
+1046,Adjustable Wrench Compact,3616.38,YtGyiaKup-326,2022-01-08
+1047,Soldering Station Wi-Fi-Ready,9065.01,GKJrKfLvuzMG-287,2022-11-08
+1048,Soldering Station Splash-Proof,1299.37,GKJrKfLvuzMG-954,2020-12-29
+1049,Piston Pump Standard-Issue,1823.32,RtIZFLImjcI-374,2021-08-23
+1050,Piston Pump Tough-Built,7786.6,RtIZFLImjcI-453,2022-11-23
+1051,Piston Pump Thin-Profile,794.53,RtIZFLImjcI-231,2021-10-05
+1052,Welding Mask Multipurpose,5388.8,KxTNfTRcyU-820,2022-10-18
+1053,Welding Mask Wood-Handled,9860.73,KxTNfTRcyU-325,2023-05-17
+1054,Welding Mask Waterproof,8545.64,KxTNfTRcyU-353,2022-01-14
+1055,Anvil Solar-Powered,3159.75,trXnBsOeiU-184,2023-07-04
+1056,Rotary Hammer Wi-Fi-Ready,1084.24,nTAdpwfwpQg-318,2023-01-10
+1057,Rotary Hammer Classic,4114.6,nTAdpwfwpQg-809,2022-12-28
+1058,Brick Saw Vibration-Resistant,3450.9,ZNvOUmQBvZ-979,2022-04-21
+1059,Mixing Paddle Foldable,242.97,esavYqiSiiLI-618,2023-01-13
+1060,Mixing Paddle Rechargeable,391.94,esavYqiSiiLI-752,2022-04-16
+1061,Mixing Paddle Semi-Automatic,2914.74,esavYqiSiiLI-692,2022-09-16
+1062,Leaf Blower Lightweight,6662.26,ugEsMgrDSD-353,2022-06-07
+1063,Leaf Blower High-Performance,5168.35,ugEsMgrDSD-251,2023-10-06
+1064,Leaf Blower Quick-Setup,8357.47,ugEsMgrDSD-108,2022-04-26
+1065,Leaf Blower Ergonomic,3774.73,ugEsMgrDSD-868,2021-09-21
+1066,Leaf Blower Wall-Mount,8358.35,ugEsMgrDSD-448,2023-05-09
+1067,Adjustable Wrench Expandable,4659.38,YtGyiaKup-118,2023-07-24
+1068,Adjustable Wrench Vibration-Resistant,3207.45,YtGyiaKup-594,2021-05-01
+1069,Adjustable Wrench Tension-Adjustable,2895.16,YtGyiaKup-915,2022-03-31
+1070,Adjustable Wrench Low-Noise,5940.17,YtGyiaKup-722,2023-04-01
+1071,Adjustable Wrench Industrial,3154.45,YtGyiaKup-758,2021-12-06
+1072,Drill Bit Bluetooth-Enabled,6691.72,KMshPlvVZ-579,2023-02-13
+1073,Drill Bit Speed-Optimized,4874.74,KMshPlvVZ-374,2022-01-31
+1074,Drill Bit Wear-Resistant,9238.6,KMshPlvVZ-775,2021-04-08
+1075,Belt Sander UV-Protected,6422.6,bMPDSLau-743,2022-08-12
+1076,Belt Sander Wobble-Free,1603.63,bMPDSLau-320,2021-09-09
+1077,Belt Sander X-Large,2866.15,bMPDSLau-721,2022-04-15
+1078,Oscillating Tool Two-Speed,7407.63,VdHOIkjKC-289,2022-08-18
+1079,Safety Goggles Multipurpose,7385.82,IcObZuusUTQ-671,2020-11-01
+1080,Safety Goggles Two-Speed,2598.94,IcObZuusUTQ-871,2022-01-14
+1081,Lineman's Pliers Waterproof,2050.67,ZNdKmlLQjEIx-994,2023-02-05
+1082,Lineman's Pliers Wi-Fi-Ready,8968.86,ZNdKmlLQjEIx-697,2021-12-27
+1083,Lineman's Pliers Adjustable,9388.06,ZNdKmlLQjEIx-309,2022-10-19
+1084,Lineman's Pliers Lightweight,4812.83,ZNdKmlLQjEIx-397,2021-07-28
+1085,Lineman's Pliers Multipurpose,6699.53,ZNdKmlLQjEIx-751,2021-01-23
+1086,Portable Generator Variable-Speed,7631.91,tUcDFnyZ-186,2022-02-07
+1087,Portable Generator Universal-Fit,8264.12,tUcDFnyZ-664,2023-04-07
+1088,Portable Generator Wi-Fi-Ready,6063.38,tUcDFnyZ-811,2023-09-07
+1089,Portable Generator Mini,1818.85,tUcDFnyZ-800,2022-10-07
+1090,Crowbar Retractable,7774.65,GVUHIQSlzbCG-654,2023-09-18
+1091,Crowbar Tension-Adjustable,1335.49,GVUHIQSlzbCG-479,2022-04-08
+1092,Crowbar Remote-Controlled,7058.42,GVUHIQSlzbCG-655,2022-01-27
+1093,Crowbar Quick-Setup,4517.39,GVUHIQSlzbCG-178,2020-11-29
+1094,Crowbar Wind-Resistant,535.96,GVUHIQSlzbCG-559,2023-06-28
+1095,Flashlight Two-Speed,432.13,YmImXLLQ-518,2021-12-21
+1096,Rotary Hammer Space-Saving,3176.07,nTAdpwfwpQg-328,2022-02-22
+1097,Rotary Hammer Starter-Kit,6948.43,nTAdpwfwpQg-233,2022-08-16
+1098,Bolt Cutter Vintage-Style,1783.99,cgzNMRhpV-440,2021-07-14
+1099,Bolt Cutter Lightweight,6550.27,cgzNMRhpV-982,2021-07-24
+1100,Bolt Cutter Industrial,839.99,cgzNMRhpV-837,2023-09-30
+1101,Chisel Turbo-Charged,4143.53,ftJtklAnh-705,2022-06-24
+1102,Chisel Upgraded,3587.01,ftJtklAnh-465,2022-12-05
+1103,Chisel Wall-Mount,1173.71,ftJtklAnh-612,2023-07-08
+1104,Log Splitter Variable-Speed,2040.59,FqiwonaYS-824,2022-08-21
+1105,Table Saw Standard-Issue,4496.74,EDcZiINt-420,2023-01-20
+1106,Oil Dispenser Temperature-Controlled,9221.51,KblSgWyOf-709,2022-06-18
+1107,Oil Dispenser Multipurpose,3766.7,KblSgWyOf-494,2021-12-18
+1108,Oil Dispenser High-Capacity,7977.66,KblSgWyOf-461,2023-05-13
+1109,Brick Saw Self-Lubricating,1462.34,ZNvOUmQBvZ-221,2023-01-28
+1110,Brick Saw Bluetooth-Enabled,6606.41,ZNvOUmQBvZ-869,2022-12-09
+1111,Heat Gun Soft-Touch,4784.68,UyWetVCq-736,2023-06-15
+1112,Heat Gun Spark-Resistant,9025.17,UyWetVCq-665,2023-01-26
+1113,Heat Gun Soft-Touch,3558.5,UyWetVCq-887,2023-10-07
+1114,Sawhorse Waterproof,4115.15,KPLYdDFA-806,2021-05-18
+1115,Sawhorse Compact,1942.98,KPLYdDFA-431,2021-05-20
+1116,Sawhorse High-Capacity,1091.16,KPLYdDFA-260,2023-02-06
+1117,Band Saw Underwater,7924.0,PkQMobCvxK-948,2023-09-28
+1118,Pallet Truck Vintage-Style,3368.17,IXmrqljcTTfS-640,2022-10-25
+1119,Pallet Truck Wind-Resistant,4415.08,IXmrqljcTTfS-238,2020-12-25
+1120,Pallet Truck Water-Soluble,815.04,IXmrqljcTTfS-694,2022-03-20
+1121,Pallet Truck Straight-Edge,8651.35,IXmrqljcTTfS-880,2023-05-12
+1122,File Set Multipurpose,7570.11,dQzCshFiNbBe-925,2021-05-19
+1123,Soldering Station Ventilated,1408.8,GKJrKfLvuzMG-295,2021-12-21
+1124,Soldering Station Washable,7239.44,GKJrKfLvuzMG-546,2022-02-21
+1125,Soldering Station Water-Soluble,9004.84,GKJrKfLvuzMG-243,2023-03-14
+1126,TIG Welder Uncoated,7229.38,ahquvTiaK-952,2021-09-28
+1127,Tape Gun Bluetooth-Enabled,2385.28,QPwwKblBJfR-537,2022-07-17
+1128,Tape Gun Theft-Deterrent,255.78,QPwwKblBJfR-933,2022-11-15
+1129,LED Work Light Splash-Proof,255.1,KySXZTxJEHS-880,2021-01-12
+1130,LED Work Light Universal-Fit,5467.29,KySXZTxJEHS-592,2021-08-25
+1131,LED Work Light High-Capacity,2064.03,KySXZTxJEHS-237,2023-03-23
+1132,LED Work Light Mini,2022.99,KySXZTxJEHS-436,2022-10-21
+1133,Tape Gun Bluetooth-Enabled,4220.46,QPwwKblBJfR-318,2022-03-02
+1134,Tape Gun Advanced,3579.78,QPwwKblBJfR-590,2021-05-03
+1135,Tape Gun Shock-Absorbent,9337.68,QPwwKblBJfR-199,2021-04-23
+1136,Tape Gun Ultra-Bright,2977.6,QPwwKblBJfR-458,2022-05-18
+1137,Tape Gun Starter-Kit,635.34,QPwwKblBJfR-453,2023-10-09
+1138,Hex Key Safety-Enhanced,6391.31,afZbdoSdLt-851,2023-01-04
+1139,Hex Key Triple-Layer,3032.62,afZbdoSdLt-621,2022-06-17
+1140,Hex Key Weather-Sealed,1119.91,afZbdoSdLt-130,2022-06-20
+1141,Electric Hoist Tilt-Action,6425.73,vLvPTkAw-637,2022-06-14
+1142,Electric Hoist Tilt-Action,1649.81,vLvPTkAw-516,2023-05-18
+1143,Piston Pump Splash-Proof,5031.94,RtIZFLImjcI-832,2020-11-23
+1144,Piston Pump UV-Protected,196.22,RtIZFLImjcI-956,2021-05-30
+1145,Folding Ladder Three-Phase,9776.45,pXlxzyRNy-792,2022-07-02
+1146,Folding Ladder Maintenance-Free,3088.59,pXlxzyRNy-782,2020-12-16
+1147,Folding Ladder Industrial,9767.86,pXlxzyRNy-885,2020-10-30
+1148,Folding Ladder Classic,9932.68,pXlxzyRNy-682,2023-03-28
+1149,Pipe Cutter Safety-Enhanced,9890.95,MttpcCrD-559,2022-01-17
+1150,Pipe Cutter Top-Grade,2492.48,MttpcCrD-305,2021-08-05
+1151,Pipe Cutter Rechargeable,3915.29,MttpcCrD-596,2023-10-15
+1152,Pipe Cutter Straight-Edge,5945.62,MttpcCrD-285,2021-12-06
+1153,Pipe Cutter Upgraded,490.22,MttpcCrD-336,2021-04-29
+1154,Welding Mask Water-Soluble,427.96,KxTNfTRcyU-616,2023-03-11
+1155,Welding Mask Industrial,7169.39,KxTNfTRcyU-440,2023-08-25
+1156,Welding Mask Wireless,7143.04,KxTNfTRcyU-245,2022-03-12
+1157,Welding Mask Advanced,8027.56,KxTNfTRcyU-912,2021-07-04
+1158,Welding Mask Sound-Proof,8231.66,KxTNfTRcyU-870,2021-05-30
+1159,Ratchet Quick-Setup,9909.19,jWfbWAGCY-528,2023-02-12
+1160,Ratchet Bluetooth-Enabled,6260.06,jWfbWAGCY-182,2020-12-23
+1161,Ratchet Space-Saving,5188.86,jWfbWAGCY-768,2021-05-07
+1162,Rotary Hammer Wi-Fi-Ready,4878.29,nTAdpwfwpQg-322,2022-12-15
+1163,Rotary Hammer Self-Lubricating,6532.51,nTAdpwfwpQg-905,2023-04-16
+1164,Rotary Hammer Spark-Resistant,309.5,nTAdpwfwpQg-639,2022-01-13
+1165,Drill Bit Rechargeable,66.01,KMshPlvVZ-634,2022-03-23
+1166,Drill Bit Digital,2989.04,KMshPlvVZ-237,2021-03-23
+1167,Drill Bit Ultra-Bright,105.53,KMshPlvVZ-832,2022-08-03
+1168,Drill Bit Heavy-Duty,4501.18,KMshPlvVZ-490,2022-03-28
+1169,Sledgehammer Quick-Release,4686.12,iCrVHOflbfm-772,2022-10-05
+1170,Hatchet Automatic,5707.93,JXbKQCrMYKa-981,2021-09-17
+1171,Pallet Jack Mini,1277.45,mnHUGfTUn-859,2022-02-04
+1172,Pallet Jack High-Capacity,2274.52,mnHUGfTUn-894,2023-01-01
+1173,Pallet Jack High-Performance,8956.52,mnHUGfTUn-694,2023-03-23
+1174,Pallet Jack Weather-Resistant,748.45,mnHUGfTUn-809,2021-02-28
+1175,Pallet Jack Zero-Clearance,3787.11,mnHUGfTUn-809,2021-06-03
+1176,Chainsaw Thin-Profile,7470.13,KmpchGfSTTTR-379,2022-02-04
+1177,Chainsaw Bluetooth-Enabled,4703.73,KmpchGfSTTTR-985,2021-09-19
+1178,Chainsaw Wobble-Free,7441.14,KmpchGfSTTTR-675,2021-05-01
+1179,Chainsaw Weather-Sealed,3085.63,KmpchGfSTTTR-208,2021-04-08
+1180,Cord Reel Tear-Resistant,7614.97,rOUlTxGnLVpt-107,2021-03-02
+1181,Cord Reel Turbo-Charged,3876.69,rOUlTxGnLVpt-750,2021-07-29
+1182,Trench Rammer Compact,9717.34,BaUAwzBU-609,2022-09-24
+1183,Trench Rammer Standard-Issue,4349.65,BaUAwzBU-595,2021-05-02
+1184,Trench Rammer Rechargeable,2632.89,BaUAwzBU-480,2023-05-01
+1185,Trench Rammer Solid-Core,9551.69,BaUAwzBU-922,2023-05-08
+1186,Portable Generator Secure-Grip,1953.1,tUcDFnyZ-647,2021-06-03
+1187,Portable Generator Stain-Resistant,7189.7,tUcDFnyZ-525,2023-02-22
+1188,Portable Generator Universal-Fit,3614.65,tUcDFnyZ-396,2020-12-26
+1189,Trench Rammer Professional-Grade,5263.41,BaUAwzBU-348,2022-09-09
+1190,Clamp Wind-Resistant,4852.83,AkxCQHMBK-858,2022-07-19
+1191,Clamp Bluetooth-Enabled,999.21,AkxCQHMBK-458,2021-06-29
+1192,Crowbar Tough-Built,3850.34,GVUHIQSlzbCG-366,2021-04-20
+1193,Crowbar Standard-Issue,1295.36,GVUHIQSlzbCG-506,2020-12-06
