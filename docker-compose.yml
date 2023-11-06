@@ -90,4 +90,4 @@ volumes:
     driver_opts:
        o: bind
        type: none
-       device: /Users/Lenovo/Desktop/Keshav/Spark/pyspark_postgres/pyspark-postgres-movielens-etl-master/pyspark-postgres-movielens-etl-master/pg_db
+       device: ./spark_etl/data/pg_db
